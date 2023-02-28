@@ -1,0 +1,7 @@
+body{
+    margin: 0px; /*margem externa */
+    padding: 0px; /*margem interna */
+}
+header{
+    background-image: url(/assets/images/background.png);
+}
