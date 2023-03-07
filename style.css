@@ -34,3 +34,28 @@ header h4{
     font-weight: 400;
     line-height: 150%;
 }
+
+/* lista da seção de certificação   */
+
+#secao_certificacao{
+    background: #EAECE5;
+    
+}
+#secao_certificacao ul{
+    margin: 0px;
+    padding: 0px;
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+}
+#secao_certificacao ul li{
+    display: flex;
+    align-items: center;
+    color: #122235;
+}
+#secao_certificacao ul li span{
+    color: #247BA0;
+    margin: 0px 10px;
+}
