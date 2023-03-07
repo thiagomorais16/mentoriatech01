@@ -78,13 +78,16 @@ header h4{
     padding-left: 50px;
 }
 #secao_direita h4{
-    width: 50%;
+    width: 65%;
+    font-weight: bold;
+    line-height: 150%;
     font-size: 32px;
     color: #247BA0;
 }
 #secao_direita p{
-    width: 50%;
+    width: 65%;
     font-size: 20px;
     color: #383838;
-    text-align:justify;
+    line-height: 150%;
+  
 }
